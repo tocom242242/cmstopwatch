@@ -4,6 +4,8 @@ CMStopWatch(Cpu+Memory+StopWatch) is simple stopwatch program written by python.
 
 CMStopWatch can watch cpu, memory too.
 
+![image](https://github.com/tocom242242/cmstopwatch/blob/master/sample_image.png)
+
 
 
 ## How to Install in Linux
